@@ -2,6 +2,8 @@
 
 An in-memory mod loader for Discord.
 
+If you're using moonlight or Vencord, I recommend using my other projects: [moonlight launcher](https://github.com/meguminsama/moonlight-launcher) or [vencord launcher](https://github.com/meguminsama/vencord-launcher) instead, as they are actively maintained and have installers.
+
 # Note about 64-bit & 32-bit Discord.
 
 This modloader currently only supports 64-bit Discord. If you aren't currently using the 64-bit version of Discord, make sure you download the 64-bit version from the Discord website.
